@@ -608,7 +608,7 @@ a {
   .nav__toggler {
     display: none;
   }
-  .nav_list {ss
+  .nav_list {
     width: auto;
     display: flex;
     font-size: 1.6rem;
